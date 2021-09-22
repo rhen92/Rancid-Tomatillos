@@ -12,7 +12,7 @@
     </tr>
 </table>
 
-* Project Manager: [Leta Keane](https://github.com/letakeane) &[Scott Ertmer](https://github.com/sertmer)
+Project Manager: [Leta Keane](https://github.com/letakeane) & [Scott Ertmer](https://github.com/sertmer)
 
 1. [Overview](#overview)
 2. [Functionality](#functionality)
@@ -45,11 +45,6 @@ Rancid Tomatillos is a mock Rotten Tomatoes / IMDB style movie gallery.  Users c
 6. Router
 7. Cypress
 8. Surge
-
-## Contributors
-
-* Creator: [Rachel Hendricks](https://github.com/rhen92) & [Robert DeRouin](https://github.com/robertjosephderouin)
-* Project Manager: [Leta Keane](https://github.com/letakeane) &[Scott Ertmer](https://github.com/sertmer)
 
 ## Resources
 
