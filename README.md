@@ -43,4 +43,4 @@ Rancid Tomatillos is a mock Rotten Tomatoes / IMDB style movie gallery.  Users c
 
 ## Resources
 
-* Deployed Page : http://red-game.surge.sh/
+* [Deployed Page](http://red-game.surge.sh/)
