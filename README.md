@@ -1,6 +1,20 @@
 # Rancid Tomatillos
 
-A Front-End Project by [Rachel Hendricks](https://github.com/rhen92) & [Robert DeRouin](https://github.com/robertjosephderouin)
+# Developer
+<table>
+    <tr>
+        <td><a href="https://github.com/rhen92">Rachel Hendricks</td>
+    </tr>
+    <tr>
+      <td><img src="https://avatars.githubusercontent.com/u/76266623?v=4" alt="R. Hendricks" width="125" height="auto" /></td>
+    </tr>
+     <tr>
+        <td><a href="https://github.com/robertjosephderouin">Robert DeRouin</td>
+    </tr>
+    <tr>
+      <td><img src="https://avatars.githubusercontent.com/u/76668112?v=4" alt="R. DeRouin" width="125" height="auto" /></td>
+    </tr>
+</table>
 
 * Project Manager: [Leta Keane](https://github.com/letakeane) &[Scott Ertmer](https://github.com/sertmer)
 
