@@ -4,15 +4,11 @@
 <table>
     <tr>
         <td><a href="https://github.com/rhen92">Rachel Hendricks</td>
+        <td><a href="https://github.com/robertjosephderouin">Robert DeRouin</td>    
     </tr>
     <tr>
       <td><img src="https://avatars.githubusercontent.com/u/76266623?v=4" alt="R. Hendricks" width="125" height="auto" /></td>
-    </tr>
-     <tr>
-        <td><a href="https://github.com/robertjosephderouin">Robert DeRouin</td>
-    </tr>
-    <tr>
-      <td><img src="https://avatars.githubusercontent.com/u/76668112?v=4" alt="R. DeRouin" width="125" height="auto" /></td>
+      <td><img src="https://avatars.githubusercontent.com/u/76668112?v=4" alt="R. DeRouin" width="125" height="auto" /></td>  
     </tr>
 </table>
 
